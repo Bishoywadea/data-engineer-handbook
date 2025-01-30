@@ -274,3 +274,5 @@ Top must follow newsletters for data engineering:
 - [Exam DP-203: Data Engineering on Microsoft Azure](https://learn.microsoft.com/en-us/credentials/certifications/exams/dp-203/?tab=tab-learning-paths)
 - [Microsoft Fabric Analytics Engineer Associate](https://learn.microsoft.com/credentials/certifications/fabric-analytics-engineer-associate/)
 - [AWS Certified Data Engineer - Associate](https://aws.amazon.com/certification/certified-data-engineer-associate/)
+
+test
